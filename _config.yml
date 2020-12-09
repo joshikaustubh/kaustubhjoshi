@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kaustubh Joshi | IIT Madras"
+title                    : "Kaustubh Joshi"
 title_separator          : "-"
 name                     : &name "Kaustubh Joshi"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://joshikaustubh.github.io/kaustubhjoshi/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "joshikaustubh.github.io/kaustubhjoshi/"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Kaustubh Joshi"
-  avatar           : "images/Kaustubh.png"
-  bio              : "Enter biography here"
+  avatar           : "Kaustubh.png"
+  bio              : "Living at the confluence of robotics and biology"
   location         : "Bangalore, India"
   employer         : "Indian Institute of Science (IISc)"
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=QNQT6ngAAAAJ&hl=en"
   email            : "kaustubh.joshi1997@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Kaustubh_Joshi7"
   uri              :
@@ -99,10 +99,10 @@ author:
   github           : "joshikaustubh"
   google_plus      :
   keybase          :
-  instagram        : "kaustubhjoshi_"
+  instagram        : "https://www.instagram.com/kaustubhjoshi_/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "kaustubhjoshi18"
+  linkedin         : "https://www.linkedin.com/in/kaustubhjoshi18/"
   orcid            : "https://orcid.org/0000-0002-2626-8641"
   pinterest        :
   soundcloud       :
